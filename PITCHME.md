@@ -29,7 +29,7 @@
 
 +++?image=/visual-aids/continuous-swe.png&size=75% auto
 
-@title[Continuous Software Engineering]
+@title[CI Tools]
 
 +++?image=/visual-aids/ci_tools.png&size=75% auto
 
@@ -41,8 +41,7 @@
 
 +++?image=/visual-aids/github_workflow.png&size=75% auto
 
-@title[How it All Fits Together]
-footnote: "Image from: [The GitHub Guide](https://guides.github.com/introduction/flow/)"
+@title[GitHub Flow]
 
 ---
 
