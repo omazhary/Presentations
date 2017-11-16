@@ -1,5 +1,3 @@
-theme-override : /assets/css/PITCHME.css
-
 ---
 
 ## Continuous Integration in Software Development
