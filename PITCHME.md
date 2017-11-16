@@ -26,8 +26,9 @@
 
 +++
 
-### Automated Software Development
+@title[Continuous Software Engineering]
 
+![Logo](visual-aids/continuous-swe.png)
 
 +++
 
