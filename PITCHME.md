@@ -19,7 +19,7 @@
 
 ---
 
-### Introduction to Continuous Integration
+### Introduction to CI
 
 > "Continuous Integration is a software development practice where members of a team integrate their work frequently leading to multiple integrations per day.
 > Each integration is verified by an automated build to detect integration errors as quickly as possible." - Martin Fowler
