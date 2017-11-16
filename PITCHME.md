@@ -7,8 +7,8 @@
 
 ### Agenda
 - Introduction to Continuous Integration (CI)
-    - Automated software development
-    - CI as a software practice
+    - Continuous software engineering
+    - CI in action
     - How it all fits together
 - Research Background
     - Previous areas of research
@@ -28,11 +28,9 @@
 
 @title[Continuous Software Engineering]
 
++++?image=/visual-aids/ci_tools.png&size=75% auto
 
-+++
-
-### CI as a Software Practice
-
+@title[CI in Action]
 
 +++
 
