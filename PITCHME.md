@@ -52,8 +52,6 @@
 ### Information Gathering
 
 - Systematic literature review by Shahin et al.
-- From 2004 till June of 2016
-- Findings:
 ![Research Progression](/visual-aids/research_progression_shahin.png?size=50%)
 
 +++
