@@ -15,7 +15,7 @@
     - Current _hot_ topics
 - Areas of Interest
     - Build-time reduction
-    - CI (integrations too?) as a communication channel
+    - CI as a communication channel
 
 ---
 
@@ -64,3 +64,6 @@
 +++
 
 ### CI as a Communication Channel
+
+
+---
