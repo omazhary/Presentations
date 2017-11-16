@@ -24,11 +24,10 @@
 > "Continuous Integration is a software development practice where members of a team integrate their work frequently leading to multiple integrations per day.
 > Each integration is verified by an automated build to detect integration errors as quickly as possible." - Martin Fowler
 
-+++
++++?image=/visual-aids/continuous-swe.png
 
 @title[Continuous Software Engineering]
 
-![Logo](/visual-aids/continuous-swe.png)
 
 +++
 
