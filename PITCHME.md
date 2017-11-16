@@ -42,7 +42,7 @@
 +++?image=/visual-aids/github_workflow.png&size=75% auto
 
 @title[How it All Fits Together]
-<sup>Image from: [The GitHub Guide](https://guides.github.com/introduction/flow/)</sup>
+footnote: "Image from: [The GitHub Guide](https://guides.github.com/introduction/flow/)"
 
 ---
 
