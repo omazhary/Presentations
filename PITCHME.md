@@ -8,7 +8,6 @@
 ### Agenda
 - Introduction to Continuous Integration (CI)
     - Continuous software engineering
-    - CI in action
     - How it all fits together
 - Research Background
     - Previous areas of research
@@ -24,6 +23,10 @@
 > "Continuous Integration is a software development practice where members of a team integrate their work frequently leading to multiple integrations per day.
 > Each integration is verified by an automated build to detect integration errors as quickly as possible." - Martin Fowler
 
++++
+
+### Continuous Software Engineering
+
 +++?image=/visual-aids/continuous-swe.png&size=75% auto
 
 @title[Continuous Software Engineering]
@@ -36,6 +39,7 @@
 
 ### How It All Fits Together
 
++++?image=/visual-aids/github_workflow.png&size=75% auto
 
 ---
 
