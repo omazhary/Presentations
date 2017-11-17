@@ -36,6 +36,8 @@
 
 @title[CI in Action]
 
++++?image=https://user-images.githubusercontent.com/7321362/32575895-ea563032-c49a-11e7-9581-e05ec882658b.png&size=75% auto
+
 +++
 
 ### How It All Fits Together
@@ -81,7 +83,7 @@
     - Correlating Build Patterns with Other "_Attributes_"
 - Build Output Analysis
     - Predicting Build Success/Failure
-    - Prediction Test Success/Failure
+    - Predicting Test Success/Failure
 - Effects of Applying CI on Development/Quality
 
 ---
@@ -103,29 +105,29 @@
 
 ### Problem
 
-Builds -depending on the system- can take too much time.
+Builds, depending on the system, can take too much time.
 
 +++
 
 ### Anatomy of a Build
 
-- Majority: Decrease Test Time
-- Build does not consist solely of Tests
+- A Build Does Not Consist Solely of Tests
 ![CI Workflow](/visual-aids/ci_workflow.png?size=60%)
+- Majority of Research: Decrease Test Time
 
 +++
 
 ### Possible Solution: Machine Learning (ML)?
 
 - Possible Flow:
-    1. Identify overhead from non-essential CI processes
+    1. Identify overhead from CI/CDE/CD processes
     2. Propose optimizations per-stage of CI build:
         1. Provisioning
         2. Dependency Management
         3. Building (_actual_)
         4. Testing
 - Possible Outcome:
-    A framework for the application of ML in CI build optimization?
+    A framework for the application of ML in Continuous Software Engineering?
 
 +++
 
