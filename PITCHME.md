@@ -99,12 +99,31 @@
 
 +++
 
+### Problem
+
+Builds -depending on the system- can take too much time.
+
++++
+
 ### Anatomy of a Build
 
 - Majority: Decrease Test Time
 - Build does not consist solely of Tests
 ![CI Workflow](/visual-aids/ci_workflow.png?size=60%)
 
++++
+
+### Possible Solution: Machine Learning (ML)?
+
+- Possible Flow:
+    1. Identify overhead from non-essential CI processes
+    2. Propose optimizations per-stage of CI build:
+        1. Provisioning
+        2. Dependency Management
+        3. Building (_actual_)
+        4. Testing
+- Possible Outcome:
+    A framework for the application of ML in CI?
 
 +++
 
