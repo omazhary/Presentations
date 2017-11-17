@@ -123,11 +123,16 @@ Builds -depending on the system- can take too much time.
         3. Building (_actual_)
         4. Testing
 - Possible Outcome:
-    A framework for the application of ML in CI?
+    A framework for the application of ML in CI build optimization?
 
 +++
 
 ### CI as a Communication Channel
 
++++
+
+### The Great Wall of Log
+
+![Travis Output](/visual-aids/travis_output.png?size=60%)
 
 ---
