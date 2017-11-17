@@ -94,7 +94,7 @@
 
 - Majority: Decrease Test Time
 - Build does not consist solely of Tests
-![CI Workflow](/visual-aids/ci_workflow.png?size=50%)
+![CI Workflow](/visual-aids/ci_workflow.png?size=60%)
 
 
 +++
