@@ -74,7 +74,11 @@
 
 ### Mapping the Landscape
 
-<iframe width="800" height="550" frameborder="0" scrolling="no" src="//plot.ly/~omazhary/5.embed"></iframe>
+<div>
+    <a href="https://plot.ly/~omazhary/5/?share_key=VDjiRewVr9Q0yW8is9nxR6" target="_blank" title="plot_pubs_per_year" style="display: block; text-align: center;"><img src="https://plot.ly/~omazhary/5.png?share_key=VDjiRewVr9Q0yW8is9nxR6" alt="plot_pubs_per_year" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="omazhary:5" sharekey-plotly="VDjiRewVr9Q0yW8is9nxR6" src="https://plot.ly/embed.js" async></script>
+</div>
+
 
 +++
 
@@ -176,7 +180,10 @@ Builds, depending on the system, can take too much time.
 
 ### Common Pairs of Integrations
 
-<iframe width="800" height="550" frameborder="0" scrolling="no" src="//plot.ly/~omazhary/1.embed"></iframe>
+<div>
+    <a href="https://plot.ly/~omazhary/1/?share_key=thV4sVBpwApljQRe0WB8mB" target="_blank" title="Top30_integrations_assoc_rules" style="display: block; text-align: center;"><img src="https://plot.ly/~omazhary/1.png?share_key=thV4sVBpwApljQRe0WB8mB" alt="Top30_integrations_assoc_rules" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="omazhary:1" sharekey-plotly="thV4sVBpwApljQRe0WB8mB" src="https://plot.ly/embed.js" async></script>
+</div>
 
 +++
 
