@@ -13,7 +13,6 @@
     - Information Gathering
     - Research Domains
     - Mapping the Landscape
-    - Current _hot_ topics
 - Areas of Interest
     - Build-time reduction
     - CI as a communication channel
@@ -92,6 +91,10 @@
 +++
 
 ### Build-Time Reduction
+
+- Majority: Decrease Test Time
+- Build does not consist solely of Tests
+![CI Workflow](/visual-aids/ci_workflow.png?size=50%)
 
 
 +++
