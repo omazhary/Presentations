@@ -69,7 +69,7 @@
 
 ### Mapping the Landscape
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~omazhary/3.embed"></iframe>
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~omazhary/3.embed"></iframe>
 
 +++
 
