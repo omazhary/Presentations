@@ -135,4 +135,16 @@ Builds -depending on the system- can take too much time.
 
 ![Travis Output](/visual-aids/travis_output.png?size=50%)
 
+### Other Interesting Interfaces
+
+@title[Interesting Interfaces CircleCI]
+
+![CircleCI Output](/visual-aids/circle_output.png?size=50%)
+
+### Other Interesting Interfaces
+
+@title[Interesting Interfaces ConcourseCI]
+
+![ConcourseCI Output](/visual-aids/concourse_output.png?size=50%)
+
 ---
