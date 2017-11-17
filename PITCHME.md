@@ -77,6 +77,13 @@
 
 ### Current _Hot_ Topics
 
+- Build Mining, Monitoring, and Analysis
+    - Inferring Patterns from Builds
+    - Correlating Build Patterns with Other "_Attributes_"
+- Build Output Analysis
+    - Predicting Build Success/Failure
+    - Prediction Test Success/Failure
+- Effects of Applying CI on Development/Quality
 
 ---
 
