@@ -220,10 +220,6 @@ Builds, depending on the system, can take too much time.
 
 - Continuous software engineering is transforming the landscape.
 - There is high pressure to deliver quality code quickly.
-- Faster builds help developers deliver quickly, while maintaining quality:
-  - Most research focuses on test optimization.
-  - There might be other areas which could be optimized as well.
+- Faster builds help developers deliver quickly, while maintaining quality.
 - There is an over-abundance of project-related information.
-- Project health is important on multiple levels:
-    - Ensuring swift incident resolution.
-    - Criteria for selection (anecdotal).
+- Project health is important on multiple levels.
