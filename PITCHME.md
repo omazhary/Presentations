@@ -92,6 +92,15 @@
 
 ### Build-Time Reduction
 
++++
+
+> "The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency.
+> The second is that automation applied to an inefficient operation will magnify the inefficiency." - _Bill Gates_
+
++++
+
+### Anatomy of a Build
+
 - Majority: Decrease Test Time
 - Build does not consist solely of Tests
 ![CI Workflow](/visual-aids/ci_workflow.png?size=60%)
