@@ -115,7 +115,6 @@ Builds, depending on the system, can take too much time.
 
 - A Build Does Not Consist Solely of Tests
 ![CI Workflow](/visual-aids/ci_workflow.png?size=60%)
-- Majority of Research: Decrease Test Time
 
 +++
 
