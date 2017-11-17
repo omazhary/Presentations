@@ -38,6 +38,8 @@
 
 +++?image=https://user-images.githubusercontent.com/7321362/32575895-ea563032-c49a-11e7-9581-e05ec882658b.png&size=75% auto
 
+@title[Popular CI Systems]
+
 +++
 
 ### How It All Fits Together
@@ -155,6 +157,73 @@ Builds, depending on the system, can take too much time.
 
 ![ConcourseCI Output](/visual-aids/concourse_output.png?size=50%)
 
++++
+
+### Problem
+
+- Over-abundance of Information
+- Information is Fragmented over Multiple Channels
+    - CI Systems
+    - Version Control Systems
+    - Other **Integrations**
+
++++
+
+### Popular Integrations on GitHub
+
+![Integrations](/visual-aids/integrations.png?size=50%)
+
++++
+
+### Common Pairs of Integrations
+
+<iframe width="800" height="550" frameborder="0" scrolling="no" src="//plot.ly/~omazhary/1.embed"></iframe>
+
++++
+
+### So What?
+
+- Developers Want to Figure out Which Projects to Contribute to
+- Developers/Users Don't Want to _Re-invent the Wheel_
+- Industry is Moving Towards Open Source
+- There is a Need to Inspect/Monitor Project Health
+    - How Might a Comprehensive Monitoring Infrastructure Possibly Influence a Project?
+
++++
+
+### Who Might be Interested?
+
+- Developers:
+    - Reviewers
+    - Contributors
+- Users:
+    - Consumers
+    - Integrators
+- Managers
+
++++
+
+### Possible Solution: Information Consolidation?
+
+- Possible Flow:
+    1. Identify and Map out Information Provided
+    2. Identify Information Required (Gap Analysis)
+        - For Each Persona
+    3. Assemble Project Health Information Framework
+    4. Implement Prototype
+    5. Test Prototype (Field Experiment?)
+- Possible Outcome: Project Health Information Framework?
+
 ---
 
 ### In Conclusion
+
+- Continuous software engineering is transforming the landscape.
+- There is high pressure to deliver quality code quickly.
+- Faster builds help developers deliver quickly, while maintaining quality:
+  - Most research focuses on test optimization.
+  - There might be other areas which could be optimized as well.
+- There is an over-abundance of project-related information.
+- Project health is important on multiple levels:
+    - Ensuring swift incident resolution.
+    - Criteria for selection (anecdotal).
