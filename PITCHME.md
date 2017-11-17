@@ -10,9 +10,9 @@
     - Continuous software engineering
     - How it all fits together
 - Research Background
-    - Information Gathering
-    - Research Domains
-    - Mapping the Landscape
+    - Information gathering
+    - Research domains
+    - Mapping the landscape
 - Areas of Interest
     - Build-time reduction
     - CI as a communication channel
