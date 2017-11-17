@@ -10,7 +10,9 @@
     - Continuous software engineering
     - How it all fits together
 - Research Background
-    - Previous areas of research
+    - Information Gathering
+    - Research Domains
+    - Mapping the Landscape
     - Current _hot_ topics
 - Areas of Interest
     - Build-time reduction
@@ -69,7 +71,7 @@
 
 ### Mapping the Landscape
 
-<iframe width="800" height="550" frameborder="0" scrolling="no" src="//plot.ly/~omazhary/3.embed"></iframe>
+<iframe width="800" height="550" frameborder="0" scrolling="no" src="//plot.ly/~omazhary/5.embed"></iframe>
 
 +++
 
@@ -79,7 +81,6 @@
 ---
 
 ### Areas of Interest
-
 
 +++
 
