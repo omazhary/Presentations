@@ -133,6 +133,6 @@ Builds -depending on the system- can take too much time.
 
 ### The Great Wall of Log
 
-![Travis Output](/visual-aids/travis_output.png?size=60%)
+![Travis Output](/visual-aids/travis_output.png?size=50%)
 
 ---
