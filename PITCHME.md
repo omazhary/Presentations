@@ -56,7 +56,23 @@
 
 +++
 
-### Previous Areas of Research
+### Research Domains
+
+- Build- and Test Time Reduction
+- Visibility and Awareness of CI Results
+- Semi-Automated Continuous Testing
+- Violations, Flaws, and Faults in CI
+- Security and Scalability Issues in Pipelines
+- Reliability of the Deployment Process
+
++++
+
+### Mapping the Landscape
+
+<div>
+    <a href="https://plot.ly/~omazhary/3/?share_key=wMRZYdF3R6CY8GIRWLSxE4" target="_blank" title="plot_pubs_per_year" style="display: block; text-align: center;"><img src="https://plot.ly/~omazhary/3.png?share_key=wMRZYdF3R6CY8GIRWLSxE4" alt="plot_pubs_per_year" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="omazhary:3" sharekey-plotly="wMRZYdF3R6CY8GIRWLSxE4" src="https://plot.ly/embed.js" async></script>
+</div>
 
 
 +++
