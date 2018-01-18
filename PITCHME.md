@@ -16,6 +16,13 @@
 ---
 
 ### Motivation
+- Tales from the Front
+    * All for Accounting
+    * SAP
+
++++?image=/visual-aids/mercaware.png&size=75% auto
+
++++?image=/visual-aids/sap.png&size=75% auto
 
 ---
 
