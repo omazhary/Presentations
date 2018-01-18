@@ -15,3 +15,28 @@
 
 ---
 
+### Motivation
+
+---
+
+### Research Questions
+
+---
+
+### Quantifying Project Health
+
+---
+
+### Information Flows
+
+---
+
+### Continuous Software Engineering
+
+---
+
+### Next Steps
+
+---
+
+### In Conclusion
