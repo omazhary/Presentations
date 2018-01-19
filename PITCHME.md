@@ -8,7 +8,7 @@
 ### Agenda
 - Motivation
 - Research Questions
-- Quantifying Project Health
+- Interpreting Project Health
 - Information Flows
 - Continuous Software Engineering
 - Next Steps
@@ -41,15 +41,18 @@
 
 @title[SAP Convo]
 
-> "Ach komm mal Omar, Du willst nicht wirklich den Rad von Anfang an neu erfinden, willst Du?" - Stephan Weber
+> "Ach komm mal Omar, Du willst nicht wirklich den Rad von Anfang an neu erfinden, willst Du?" - Stefan Weber
 
 ---
 
 ### Research Questions
 
+1. How is information propagated within the contribution process?
+2. How does information propagation affect people's perception of project health?
+
 ---
 
-### Quantifying Project Health
+### Interpreting Project Health
 
 ---
 
