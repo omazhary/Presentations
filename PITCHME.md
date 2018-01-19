@@ -28,10 +28,10 @@
 
 @title[All for Accounting Convo]
 
-- "Let's go open-source!!"
-* "Why?"
-- "More developers for little to no cost!"
-* "How??"
+- _"Let's go open-source!!"_
+- "Why?"
+- _"More developers for little to no cost!"_
+- "How??"
 
 +++?image=/visual-aids/sap.png&size=65% auto
 
