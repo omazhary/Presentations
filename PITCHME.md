@@ -41,7 +41,7 @@
 
 @title[SAP Convo]
 
->>> "Ach komm mal Omar, Du willst nicht wirklich den Rad von Anfang an neu erfinden, willst Du?" - Stephan Weber
+> "Ach komm mal Omar, Du willst nicht wirklich den Rad von Anfang an neu erfinden, willst Du?" - Stephan Weber
 
 ---
 
