@@ -1,6 +1,6 @@
 ---
 
-## On Objectively Evaluating GitHub Projects
+## Can Contribution Process Information Flows Affect Project Health Perception?
 ##### by Omar Elazhary
 
 ---
@@ -8,9 +8,9 @@
 ### Agenda
 - Motivation
 - Research Questions
-- Interpreting Project Health
 - Information Flows
 - Continuous Software Engineering
+- Interpreting Project Health
 - Next Steps
 
 ---
@@ -41,7 +41,7 @@
 
 @title[SAP Convo]
 
-> "Ach komm mal Omar, Du willst nicht wirklich den Rad von Anfang an neu erfinden, willst Du?" - Stefan Weber
+> "Oh come on Omar, you don't really want to re-invent the wheel, do you?" - Stefan Weber
 
 ---
 
@@ -52,15 +52,15 @@
 
 ---
 
-### Interpreting Project Health
-
----
-
 ### Information Flows
 
 ---
 
 ### Continuous Software Engineering
+
+---
+
+### Interpreting Project Health
 
 ---
 
