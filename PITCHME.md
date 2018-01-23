@@ -68,6 +68,8 @@
 
 J. Bosch, “Continuous software engineering: An introduction,” in Continuous Software Engineering. Springer, 2014, pp. 3–13.
 
++++?image=/visual-aids/cse_workflow_old.png&size=65% auto
+
 +++
 
 ### Continuous Integration (CI)
