@@ -97,7 +97,7 @@ J. Bosch, “Continuous software engineering: An introduction,” in Continuous 
 - Adds the ability to deploy to a customer environment (i.e., _production_)
 - A.K.A. _The Pipeline_
 
-+++
++++?image=/visual-aids/cse_workflow.png&size=65% auto
 
 +++?image=/visual-aids/DFD_lvl02.png&size=65% auto
 
