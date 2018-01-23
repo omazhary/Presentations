@@ -1,6 +1,6 @@
 ---
 
-## Can Contribution Process Information Flows Affect Project Health Perception?
+## Contribution Process Information Flows and Project Health Perception
 ##### by Omar Elazhary
 
 ---
@@ -16,6 +16,8 @@
 ---
 
 ### Motivation
+- How do I make my project more "appealing" to other developers?
+- Which project to include in my platform?
 - Tales from the Front
     * All for Accounting
     * SAP
@@ -53,6 +55,10 @@
 ---
 
 ### Information Flows
+
++++
+
+
 
 ---
 
