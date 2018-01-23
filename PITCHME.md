@@ -107,7 +107,7 @@ J. Bosch, “Continuous software engineering: An introduction,” in Continuous 
 
 ### Interpreting Project Health
 
-+++?image=/visual-aids/ITIL_RequestFulfillment.png&size=65% auto
++++?image=/visual-aids/ITIL_RequestFulfillment.png&size=25% auto
 
 ---
 
