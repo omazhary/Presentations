@@ -56,15 +56,15 @@
 
 ### Information Flows
 
-+++
++++?image=/visual-aids/sampling.png&size=75% auto
 
 +++?image=/visual-aids/DFD_lvl01.png&size=65% auto
-
-+++?image=/visual-aids/DFD_lvl02.png&size=65% auto
 
 ---
 
 ### Continuous Software Engineering
+
++++?image=/visual-aids/DFD_lvl02.png&size=65% auto
 
 ---
 
