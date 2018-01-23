@@ -58,7 +58,9 @@
 
 +++
 
++++?image=/visual-aids/DFD_lvl01.png&size=65% auto
 
++++?image=/visual-aids/DFD_lvl02.png&size=65% auto
 
 ---
 
