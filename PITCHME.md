@@ -73,6 +73,8 @@
 
 ### Continuous Software Engineering
 
++++
+
 > "Continuous software engineering refers to the organizational capability to develop, release, and learn from software in rapid parallel cycles."
 
 J. Bosch, “Continuous software engineering: An introduction,” in Continuous Software Engineering. Springer, 2014, pp. 3–13.
