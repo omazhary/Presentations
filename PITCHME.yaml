@@ -1,6 +1,6 @@
 theme: white
 theme-override: /assets/css/PITCHME.css
 footnote: "&copy; 2018 Omar Elazhary"
-published: false
+published: true
 slide-number: true
 logo: assets/images/chisel_logo.png
