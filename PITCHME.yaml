@@ -1,4 +1,5 @@
-theme : white
-theme-override : /assets/css/PITCHME.css
-footnote : "&copy; 2018 Omar Elazhary"
-published : false
+theme: white
+theme-override: /assets/css/PITCHME.css
+footnote: "&copy; 2018 Omar Elazhary"
+published: false
+slide-number: true
