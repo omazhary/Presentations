@@ -71,7 +71,6 @@ J. Bosch, “Continuous software engineering: An introduction,” in Continuous 
 
 ### Continuous Integration (CI)
 
-As a tool: The system executes the following in a series of steps that comprise a **build**, with as little human intervention as possible:
 1. Retrieve source code
 2. Compile source code
 3. Execute:
