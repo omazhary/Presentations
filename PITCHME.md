@@ -16,7 +16,12 @@
 ---
 
 ### Motivation
-- How do I make my project more "appealing" to other developers?
+
++++
+
+@title[Motivation description]
+
+- How do I get other developer to "invest" themselves in my project?
 - Which project to include in my platform?
 - Tales from the Front
     * All for Accounting
@@ -48,6 +53,10 @@
 ---
 
 ### Research Questions
+
++++
+
+@title[Questions]
 
 1. How is information propagated within the contribution process?
 2. How does information propagation affect people's perception of project health?
@@ -109,10 +118,34 @@ J. Bosch, “Continuous software engineering: An introduction,” in Continuous 
 
 +++?image=/visual-aids/ITIL_RequestFulfillment.png&size=25% auto
 
++++
+
+### ITIL Request Fulfillment
+
+- Customer Requests:
+    - Additional Functionality
+    - Modification of Existing Functionality
+- Critical Success Factors (CSFs)
+- Key Performance Indicators (KPIs)
+
++++
+
+### CSFs and KPIs
+
+- **CSF:** Efficient and Timely
+    - **KPI:** Mean Service Request Handling Time
+    - **KPI:** Number and Percentage of Requests Completed in Target Time
+- **CSF:** Only Authorized Requests
+    - **KPI:** Percentage of Appropriately Authorized Completed Requests
+- **CSF:** User Satisfaction
+    - **KPI:** Measure of Satisfaction per Request
+
 ---
 
 ### Next Steps
 
----
-
-### In Conclusion
+- Inter-rater Agreement?
+- Code Analysis
+- Validate DFD Model
+- Apply KPIs and Observe Outcome
+    - Might need some sort of baseline
