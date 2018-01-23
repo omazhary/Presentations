@@ -64,6 +64,41 @@
 
 ### Continuous Software Engineering
 
+> "Continuous software engineering refers to the organizational capability to develop, release, and learn from software in rapid parallel cycles."
+J. Bosch, “Continuous software engineering: An introduction,” in Continuous Software Engineering. Springer, 2014, pp. 3–13.
+
++++
+
+### Continuous Integration (CI)
+
+As a tool: The system executes the following in a series of steps that comprise a **build**, with as little human intervention as possible:
+1. Retrieve source code
+2. Compile source code
+3. Execute:
+    - Unit Tests
+    - Integration Tests
+    - Regression Tests
+    - Static Analysis
+4. Provide feedback
+
++++
+
+### Continuous Delivery (CDE)
+
+- Extends CI
+- Adds the concept of a _Staging Environment_
+- A successful build from a CI system will result in a production-ready release (if required by developer)
+
++++
+
+### Continuous Deployment (CD)
+
+- Extends CDE
+- Adds the ability to deploy to a customer environment (i.e., _production_)
+- A.K.A. _The Pipeline_
+
++++
+
 +++?image=/visual-aids/DFD_lvl02.png&size=65% auto
 
 ---
